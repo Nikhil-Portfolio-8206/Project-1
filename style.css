@@ -1,39 +1,17 @@
-/* ************************************General selector******************************* */
 body{
     margin: 0;
 }
 h1{
-    margin: 0px;
+    margin-top: 0;
 }
-p{
-    margin: 0;
-}
-/* ***********************************Class selector************************************** */
 .top-container{
-    background-color: #413f3f;
-    height: 100px;
+    background-color: grey;
+    /* height: 200px;
+    width: 200px; */
+
 }
 .middle-container{
-    width: 100%;
-    height: 600px;
-    background-color: rgb(101, 179, 23);
-    margin: 0;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
 }
-.bottem-container{
-    width: 100%;
-    margin: 0;
-    background-color: rgb(44, 78, 78);
-    height: 600px;
-}
- 
-
-/* ***********************************ID selector************************************** */
-
-
-
-
-
-/* ***********************************Pseudo selector************************************** */
-
-
-
